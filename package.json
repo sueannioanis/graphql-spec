@@ -22,7 +22,7 @@
     "watch": "nodemon -e json,md --exec 'npm run build'"
   },
   "devDependencies": {
-    "cspell": "5.9.1",
+    "cspell": "6.31.1",
     "nodemon": "2.0.12",
     "prettier": "^2.3.0",
     "spec-md": "3.0.2"
